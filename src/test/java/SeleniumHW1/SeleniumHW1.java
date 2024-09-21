@@ -1,9 +1,9 @@
-package HW1;
+package SeleniumHW1;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-package HW1;
+package SeleniumHW1;
 
 public class SeleniumHW1 {
     public static void main(String[] args) {
